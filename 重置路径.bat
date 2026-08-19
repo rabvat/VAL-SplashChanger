@@ -1,0 +1,1 @@
+del /f /s /q "%temp%\VAL_PATH.txt"
