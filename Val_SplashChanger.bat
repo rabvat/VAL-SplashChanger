@@ -35,8 +35,8 @@ set /p path=<"%TEMP%\VAL_PATH.txt"
 cls
 REM 设置版本
 set valversion1=13
-set valversion2=00
-set version=v1.1-github-release
+set valversion2=04
+set version=v1.2-github-release
 
 echo    _____       __           __        ________                               
 echo   / ___/____  / /___ ______/ /_      / ____/ /_  ____ _____  ____ ____  _____
